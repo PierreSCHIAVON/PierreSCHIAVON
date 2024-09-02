@@ -31,7 +31,7 @@ I'm a full-stack developer shaping my version of the digital world one step at a
 #
 
 <details>   
-<summary><h3>Pierre's Coding Journey</h3></summary>
+<summary><h3> 🧑🏻‍💻 Pierre's Coding Journey</h3></summary>
 
 I didn't start my career as a software developer, I thought that this path wasn't made for me with a lot of stereotypes in mind, not good enough in maths for example. After 7 years in jobs that weren't made for me, I asked myself: What if you give a shot. I looked for a training session and find one. For a year, I learned a lot and obtain my certificate as software developer and designer. My coding journey continues with the beginning of my Master degree in computer sciences.. 
 </details>
