@@ -22,7 +22,7 @@ I'm a full-stack developer shaping my version of the digital world one step at a
 
 #
 
-<h3> 📊 Stats </h3>
+### <h3> 📊 Stats </h3>
 
 ![Pierre SCHIAVON's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierreSCHIAVON&show_icons=true&theme=gruvbox)
 
