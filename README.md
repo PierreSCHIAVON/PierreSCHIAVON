@@ -24,7 +24,7 @@ I'm a full-stack developer shaping my version of the digital world one step at a
 ![Pierre SCHIAVON's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierreSCHIAVON&show_icons=true&theme=gruvbox)
 
 #
-
+#
 <details>   
 <summary><h3>Pierre's Coding Journey</h3></summary>
 
