@@ -21,10 +21,12 @@ I'm a full-stack developer shaping my version of the digital world one step at a
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 #
+
+<h3> 📊 Stats </h3>
 ![Pierre SCHIAVON's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierreSCHIAVON&show_icons=true&theme=gruvbox)
 
 #
-#
+
 <details>   
 <summary><h3>Pierre's Coding Journey</h3></summary>
 
