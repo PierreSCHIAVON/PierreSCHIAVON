@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1></h1>
 
-<!--
-**PierreSCHIAVON/PierreSCHIAVON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developper/Creator/Tech Nerd)`** 
+
+I'm a full-stack developer shapping my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My coding journey has just started, I can't wait to solve more mysteries with my code. 
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
