@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developper/Creator/Tech Nerd)`** 
 
-I'm a full-stack developer shapping my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My coding journey has just started, I can't wait to solve more mysteries with my code. 
+I'm a full-stack developer shaping my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. My coding journey has just started, I can't wait to solve more mysteries with my code. 
 
 <hr>
 
@@ -20,13 +20,16 @@ I'm a full-stack developer shapping my version of the digital world one step at 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-Here are some ideas to get you started:
+#
+![Pierre SCHIAVON's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierreSCHIAVON&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#
+
+<details>   
+<summary><h3>Pierre's Coding Journey</h3></summary>
+
+I didn't start my career as a software developer, I thought that this path wasn't made for me with a lot of stereotypes in mind, not good enough in maths for example. After 7 years in jobs that weren't made for me, I asked myself: What if you give a shot. I looked for a training session and find one. For a year, I learned a lot and obtain my certificate as software developer and designer. My coding journey continues with the beginning of my Master degree in computer sciences.. 
+</details>
+
+
+
